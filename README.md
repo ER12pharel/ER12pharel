@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://www.usatoday.com/gcdn/presto/2018/09/09/USAT/cf59264d-15f7-4fa0-9251-8f8de5ecf7bd-XXX_CP_On_the_Set_of__Predator__014.JPG?crop=1992,1121,x1,y324&width=1992&height=1121&format=pjpg&auto=webp" height="200"/>
 </p>
 <br>
 
